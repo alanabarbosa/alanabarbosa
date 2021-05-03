@@ -1,5 +1,6 @@
 Hi, I'm Alana Barbosa 👋:grinning:
-I'm Brazilian, and I'm focusing on studies for a career in the Front-End.
+
+I'm Brazilian :earth_americas: and I'm focusing on studies for a career in the Front-End.
 
 <!--
 **alanabarbosa/alanabarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
