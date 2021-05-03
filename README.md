@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi, I'm Alana Barbosa 👋
+I'm Brazilian, and I'm focusing on studies for a career in the Front-End.
 
 <!--
 **alanabarbosa/alanabarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
