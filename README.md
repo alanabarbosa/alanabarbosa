@@ -7,7 +7,7 @@ I'm Brazilian :earth_americas:
 
 I'm focusing on studies for a career in the Front-End. <img src="https://media.tenor.com/images/80427dacea8c70ab7a55fbea7fffe962/tenor.gif" width="30px">
 
-#### "if you can dream it you can do it" 💡
+         #### "if you can dream it you can do it" 💡
  ## Where find me
    <a href="https://www.linkedin.com/in/barbosaalana/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
    
