@@ -1,4 +1,4 @@
-Hi, I'm Alana Barbosa 👋
+Hi, I'm Alana Barbosa 👋:grinning:
 I'm Brazilian, and I'm focusing on studies for a career in the Front-End.
 
 <!--
