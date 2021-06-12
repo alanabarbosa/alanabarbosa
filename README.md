@@ -5,7 +5,7 @@ Hi, I'm Alana Barbosa 👋👩🏻‍💻
 
 
 I'm Brazilian :earth_americas: 
-I'm focusing on studies for a career in the Front-End. <img src="https://media.tenor.com/images/80427dacea8c70ab7a55fbea7fffe962/tenor.gif" width="30px">
+I'm focusing on studies for a career in the developer web. <img src="https://media.tenor.com/images/80427dacea8c70ab7a55fbea7fffe962/tenor.gif" width="30px">
 
    #### "if you can dream it you can do it" 💡
  ## Where find me
