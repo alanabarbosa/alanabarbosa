@@ -12,7 +12,7 @@ I'm focusing on studies for a career in the developer web. <img src="https://med
    <a href="https://www.linkedin.com/in/barbosaalana/"><img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-256.png" width="30px"> </a>  <a href="https://behance.net/alanabarbosa2"><img src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Behance-256.png" width="31px"> </a><a href="https://codepen.io/alanabarbosa"><img src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Codepen-256.png" width="31px"> </a>
    
  ## Technologies
-<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' /> <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' /> <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' /> <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white' />  <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' />
+<img src='https://github.com/alanabarbosa/teste/blob/master/html5.png /> <img src='https://github.com/alanabarbosa/teste/blob/master/css3.png' /> <img src='https://github.com/alanabarbosa/teste/blob/master/javascript.png' /> <img src='https://github.com/alanabarbosa/teste/blob/master/github.png' />  <img src='https://github.com/alanabarbosa/teste/blob/master/boot.png' />
 
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=alanabarbosa&theme=jolly&show_icons=true&hide=issues" />
