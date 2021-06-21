@@ -12,7 +12,7 @@ I'm focusing on studies for a career in the developer web. <img src="https://med
    <a href="https://www.linkedin.com/in/barbosaalana/"><img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-256.png" width="30px"> </a>  <a href="https://behance.net/alanabarbosa2"><img src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Behance-256.png" width="31px"> </a><a href="https://codepen.io/alanabarbosa"><img src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Codepen-256.png" width="31px"> </a>
    
  ## Technologies
-<img src='https://github.com/alanabarbosa/teste/blob/master/html5.png /> <img src='https://github.com/alanabarbosa/teste/blob/master/css3.png' /> <img src='https://github.com/alanabarbosa/teste/blob/master/javascript.png' /> <img src='https://github.com/alanabarbosa/teste/blob/master/github.png' />  <img src='https://github.com/alanabarbosa/teste/blob/master/boot.png' />
+<img width="50px" src="https://github.com/alanabarbosa/teste/blob/master/html5.png" /> <img width="50px" src="https://github.com/alanabarbosa/teste/blob/master/css3.png" /> <img width="50px" src="https://github.com/alanabarbosa/teste/blob/master/boot.png" /> <img width="50px" src="https://github.com/alanabarbosa/teste/blob/master/javascript.png" /> <img width="50px" src="https://github.com/alanabarbosa/teste/blob/master/github.png" />
 
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=alanabarbosa&theme=jolly&show_icons=true&hide=issues" />
