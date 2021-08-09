@@ -4,16 +4,20 @@
 Hi, I'm Alana Barbosa 👋👩🏻‍💻
 
 
-I'm Brazilian :earth_americas: 
-I'm focusing on studies for a career in the developer web. <img src="https://media.tenor.com/images/80427dacea8c70ab7a55fbea7fffe962/tenor.gif" width="30px">
+I'm Brazilian :earth_americas:
+
+I'm a web development student, and I'm already working as a junior front-end developer.
+. <img src="https://media.tenor.com/images/80427dacea8c70ab7a55fbea7fffe962/tenor.gif" width="30px">
 
    #### "if you can dream it you can do it" 💡
  ## Where find me
-   <a href="https://www.linkedin.com/in/barbosaalana/"><img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-256.png" width="30px"> </a>  <a href="https://behance.net/alanabarbosa2"><img src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Behance-256.png" width="31px"> </a><a href="https://codepen.io/alanabarbosa"><img src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Codepen-256.png" width="31px"> </a>
+   <a href="https://www.linkedin.com/in/barbosaalana/"><img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-256.png" width="30px"> </a>  <a href="https://behance.net/alanabarbosa2"><img src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Behance-256.png" width="31px"> </a><a href="https://codepen.io/alanabarbosa"><img src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Codepen-256.png" width="31px"> </a><a href="https://www.youtube.com/channel/UCSVJZha6fxM3jkLCSw_7bDQ"><img src="https://github.com/itsalanayall/icons/blob/main/youtube.png?raw=true" width="31px"> </a><a href="https://www.instagram.com/laboratoriodaalana/"><img src="https://github.com/itsalanayall/icons/blob/main/youtube.png?raw=true" width="31px"> </a>
    
  ## Technologies
-<img width="50px" src="https://github.com/itsalanayall/icons/blob/main/html5.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/css3.png" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/boot.png" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/javascript.png" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/github.png" />
+<img width="50px" src="https://github.com/itsalanayall/icons/blob/main/html5.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/css3.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/boot.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/javascript.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/vue.png?raw=true" />
 
+ ## Tools
+<img width="50px" src="https://github.com/itsalanayall/icons/blob/main/git.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/sublime.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/vscode.png?raw=true" /> 
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=alanabarbosa&theme=jolly&show_icons=true&hide=issues" />
 
