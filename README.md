@@ -1,7 +1,7 @@
 
 
 <img style="margin-top: 40px;" align="right" width="300px" height="300px" src="https://media0.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47xeewp0be0i53jcpijn2qyz3p8ngo0egth1ei98a3&rid=giphy.gif&ct=g">
-Hi, Welcome, I'm Alana Barbosa 👋👩🏻‍💻
+Hi, Welcome, I'm Alana Barbosa 👋👩🏻‍💻 <br/>
 
 
 
