@@ -27,7 +27,12 @@ I'm a web development student, and I'm already working as a junior front-end dev
 </a>
 </div>
 
-
+<div>
+  <a href="https://github.com/Guilherme-alexander" target="_blank">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-alexander&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-alexander&layout=compact&langs_count=7&theme=react"/>
+  </a>
+</div>
 
 
 
