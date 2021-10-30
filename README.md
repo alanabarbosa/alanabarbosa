@@ -28,3 +28,5 @@ I'm a web development student, and I'm already working as a junior front-end dev
    <img width="810px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alanabarbosa&theme=jolly" alt="stats" />
   </a>
 </div>
+
+https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
