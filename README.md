@@ -21,7 +21,8 @@ I'm a web development student, and I'm already working as a junior front-end dev
  ## Tools
 <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/git.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/sublime.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/vscode.png?raw=true" /> 
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=alanabarbosa&theme=jolly&show_icons=true&hide=issues" /><img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanabarbosa&langs_count=6&theme=jolly&layout=compact" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=alanabarbosa&theme=jolly&show_icons=true&hide=issues" />
+<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanabarbosa&langs_count=6&theme=jolly&layout=compact" />
 
 <a href="https://github.com/natalia-fs">
   <img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alanabarbosa&theme=jolly" alt="stats" />
