@@ -30,6 +30,6 @@ I'm a web development student, and I'm already working as a junior front-end dev
 
 
 
-![Snake animation](https://github.com/alanabarbosa/alanabarbosablob/output/github-contribution-grid-snake.svg)
+(https://github.com/alanabarbosa/alanabarbosablob/output/github-contribution-grid-snake.svg)
 
 
