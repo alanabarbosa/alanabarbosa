@@ -29,4 +29,5 @@ I'm a web development student, and I'm already working as a junior front-end dev
   </a>
 </div>
 
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+
+![Snake animation](https://github.com/alanabarbosa/alanabarbosa/blob/output/github-contribution-grid-snake.svg)
