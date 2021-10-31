@@ -23,16 +23,11 @@ I'm a web development student, and I'm already working as a junior front-end dev
 
 <div>
   <a href="https://github.com/alanabarbosa" target="_blank">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alanabarbosa&theme=jolly&show_icons=true&hide=issues"/>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanabarbosa&langs_count=6&theme=jolly&layout=compact"/>
+     <img width="381px" src="https://github-readme-stats.vercel.app/api?username=alanabarbosa&theme=jolly&show_icons=true&hide=issues"/>
+     <img width="381px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanabarbosa&langs_count=6&theme=jolly&layout=compact"/>
      <img width="810px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alanabarbosa&theme=jolly" alt="stats" />
   </a>
 </div>
- <div>
-  <a href="https://github.com/Guilherme-alexander" target="_blank">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-alexander&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-alexander&layout=compact&langs_count=7&theme=react"/>
-  </a>
-</div>
+
 
 ![Snake animation](https://github.com/alanabarbosa/alanabarbosa/blob/output/github-contribution-grid-snake.svg)
