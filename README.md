@@ -23,9 +23,9 @@ I'm a web development student, and I'm already working as a junior front-end dev
 
 <div>
   <a href="https://github.com/alanabarbosa" target="_blank">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alanabarbosa&theme=jolly&show_icons=true&hide=issues"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanabarbosa&langs_count=6&theme=jolly&layout=compact"/>
-   <img width="810px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alanabarbosa&theme=jolly" alt="stats" />
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alanabarbosa&theme=jolly&show_icons=true&hide=issues"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanabarbosa&langs_count=6&theme=jolly&layout=compact"/>
+     <img width="810px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alanabarbosa&theme=jolly" alt="stats" />
   </a>
 </div>
 
