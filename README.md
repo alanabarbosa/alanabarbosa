@@ -12,13 +12,13 @@ I'm a web development student, and I'm already working as a junior front-end dev
 
    #### "if you can dream it you can do it" 💡
  ## Where find me
-   <a href="https://www.linkedin.com/in/barbosaalana/"><img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-256.png" width="30px"> </a>  <a href="https://behance.net/alanabarbosa2"><img src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Behance-256.png" width="31px"> </a><a href="https://codepen.io/alanabarbosa"><img src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Codepen-256.png" width="31px"> </a><a href="https://www.youtube.com/channel/UCSVJZha6fxM3jkLCSw_7bDQ"><img src="https://github.com/itsalanayall/icons/blob/main/youtube.png?raw=true" width="31px"> </a><a href="https://www.instagram.com/laboratoriodaalana/"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="31px"> </a>
+   <a href="https://www.linkedin.com/in/barbosaalana/"><img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-256.png" width="30px"> </a>  <a href="https://behance.net/alanabarbosa2"><img src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Behance-256.png" width="31px"> </a><a href="https://codepen.io/alanabarbosa"><img src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Codepen-256.png" width="31px"> </a><a href="https://www.youtube.com/channel/UCSVJZha6fxM3jkLCSw_7bDQ"><img src="https://github.com/itsalanayall/icons/blob/main/youtube.png?raw=true" width="29px"> </a><a href="https://www.instagram.com/laboratoriodaalana/"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="35px"> </a>
    
  ## Technologies
 <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/html5.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/css3.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/boot.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/javascript.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/vue.png?raw=true" />
 
  ## Tools
-<img width="50px" src="https://github.com/itsalanayall/icons/blob/main/git.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/sublime.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/vscode.png?raw=true" /> 
+<img width="50px" src="https://github.com/itsalanayall/icons/blob/main/git.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/sublime.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/vscode.png?raw=true" />  <img width="50px" src="https://p1.hiclipart.com/preview/340/372/954/clay-os-6-a-macos-icon-adobe-ilustrator-ai-logo-png-clipart.jpg" />  <img width="50px" src="https://p7.hiclipart.com/preview/197/63/810/ubuntu-linux-distribution-long-term-support-canonical-apt-linux.jpg" /> 
 
 
 <div>
