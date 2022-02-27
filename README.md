@@ -2,7 +2,7 @@
 
 
 
-<img style="margin-top: 40px;" align="right" width="300px" height="300px" src="https://media0.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47xeewp0be0i53jcpijn2qyz3p8ngo0egth1ei98a3&rid=giphy.gif&ct=g">
+<img style="margin-top: 40px;" align="right" width="300px" height="300px" src="https://laboratoriodaalana.netlify.app/img/alana1.pngg">
 Hi, Welcome, I'm Alana Barbosa 👋👩🏻‍💻 <br/>
 
 I'm Brazilian :earth_americas:
