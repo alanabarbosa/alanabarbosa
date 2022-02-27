@@ -7,7 +7,7 @@ Hi, Welcome, I'm Alana Barbosa 👋👩🏻‍💻 <br/>
 
 I'm Brazilian :earth_americas:
 
-I'm a web development student, and I'm already working as a junior front-end developer.
+Bringing technology solutions to people's lives, did you like it? already contact 😉
 . <img src="https://media.tenor.com/images/80427dacea8c70ab7a55fbea7fffe962/tenor.gif" width="30px">
 
    #### "if you can dream it you can do it" 💡
