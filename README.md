@@ -18,7 +18,8 @@ Bringing technology solutions to people's lives, did you like it? already contac
 <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/html5.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/css3.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/boot.png?raw=true" /> <img width="48px" src="https://github.com/itsalanayall/icons/blob/main/javascript.png?raw=true" /> <img width="54px" src="https://github.com/itsalanayall/icons/blob/main/vue.png?raw=true" />
 
  ## Tools
-<img width="50px" src="https://github.com/itsalanayall/icons/blob/main/git.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/sublime.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/vscode.png?raw=true" />  <img width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" />  <img width="50px" src="https://cdn-icons-png.flaticon.com/512/5969/5969282.png" /> 
+<img width="50px" src="https://github.com/itsalanayall/icons/blob/main/git.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/sublime.png?raw=true" /> 
+<img width="50px" src="https://github.com/itsalanayall/icons/blob/main/vscode.png?raw=true" />  <img width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" />  <img width="50px" src="https://cdn-icons-png.flaticon.com/512/5969/5969282.png" /> 
 
 
 <div>
