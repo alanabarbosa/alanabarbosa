@@ -25,7 +25,6 @@ Bringing technology solutions to people's lives, did you like it? already contac
   <a href="https://github.com/alanabarbosa" target="_blank">
     <img width="400px" src="https://github-readme-stats.vercel.app/api?username=alanabarbosa&show_icons=true&theme=radical"/>
      <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanabarbosa&langs_count=6&theme=jolly&layout=compact"/>
-     <img width="810px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alanabarbosa&theme=jolly" alt="stats" />
   </a>
 </div>
 
