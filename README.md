@@ -23,8 +23,8 @@ Bringing technology solutions to people's lives, did you like it? already contac
 
 <div>
   <a href="https://github.com/alanabarbosa" target="_blank">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=alanabarbosa&show_icons=true&theme=synthwave"/>
-     <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanabarbosa&langs_count=6&theme=synthwave&layout=compact"/>
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=alanabarbosa&show_icons=true&theme=jolly"/>
+     <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanabarbosa&langs_count=6&theme=jolly&layout=compact"/>
   </a>
 </div>
 
