@@ -1,9 +1,7 @@
-# Hi, Welcome, I'm Alana Barbosa 👋👩🏻‍💻😉
- <br/>
+#  👩🏻‍💻 Hi, Welcome, I'm Alana Barbosa
+####  :earth_americas: I'm Brazilian
 
-#### I'm Brazilian :earth_americas:
-
-   #### "if you can dream it you can do it" 💡
+   #### 💡 "if you can dream it you can do it" 
    
  ## Where find me
    <a href="https://www.linkedin.com/in/barbosaalana/" target="_blank">
