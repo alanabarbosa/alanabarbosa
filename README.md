@@ -18,7 +18,8 @@
    <img src="https://github.com/itsalanayall/icons/blob/main/youtube.png?raw=true" width="31px"> </a>
    
  ## Technologies
-<img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/HTML5.svg?token=ATA3BRZH6IKRB2PRFNRJAWTF27PO4" /> <img src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/CSS6.svg?token=ATA3BRYRG6BO65SPIEQZPJTF27PSQ" />
+<img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/HTML5.svg?token=ATA3BR2SWI7YKC7OHWHCVPTF27QGE" /> 
+<img src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/CSS6.svg?token=ATA3BRYRG6BO65SPIEQZPJTF27PSQ" />
 <img src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/JAVASCRIPT.svg?token=ATA3BR5QBHYDTXTQPGZFWHDF27PTY" /> 
 <img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/vue.svg?token=ATA3BR7BHPGWDQZ2YBJKO7DF27PXI" />
 <img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/JAVA.svg?token=ATA3BR43BRCTYJH675LTAEDF27PYU" />
