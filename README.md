@@ -18,17 +18,7 @@
    <img src="https://github.com/itsalanayall/icons/blob/main/youtube.png?raw=true" width="31px"> </a>
    
  ## Technologies
-<img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/HTML5.svg?token=ATA3BR2SWI7YKC7OHWHCVPTF27QGE" /> 
-<img src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/CSS6.svg?token=ATA3BRYRG6BO65SPIEQZPJTF27PSQ" />
-<img src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/JAVASCRIPT.svg?token=ATA3BR5QBHYDTXTQPGZFWHDF27PTY" /> 
-<img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/vue.svg?token=ATA3BR7BHPGWDQZ2YBJKO7DF27PXI" />
-<img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/JAVA.svg?token=ATA3BR43BRCTYJH675LTAEDF27PYU" />
-<img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/SQL.svg?token=ATA3BRZJETC5KKUDM5EXID3F27P2C" />
-<img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/POSTGRES.svg?token=ATA3BR4FLNQ3GGCOXM4TDLLF27P5W" />
-<img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/MYSQL.svg?token=ATA3BR7QVNKBCRKVZI4KMY3F27P6M" />
-<img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/LINUX.svg?token=ATA3BRYCDLTPDTSD4EFSJG3F27QAS" />
-<img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/CLOUDWAYS.svg?token=ATA3BR3U6ZIJTLOCCTN5EALF27QAO" />
-<img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/DOCKER.svg?token=ATA3BR2B6N7VD5D3VFODJ63F27QAO" />
+<img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/HTML5.svg?token=ATA3BR2SWI7YKC7OHWHCVPTF27QGE" /> <img src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/CSS6.svg?token=ATA3BRYRG6BO65SPIEQZPJTF27PSQ" /> <img src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/JAVASCRIPT.svg?token=ATA3BR5QBHYDTXTQPGZFWHDF27PTY" /> <img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/vue.svg?token=ATA3BR7BHPGWDQZ2YBJKO7DF27PXI" /> <img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/JAVA.svg?token=ATA3BR43BRCTYJH675LTAEDF27PYU" /> <img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/SQL.svg?token=ATA3BRZJETC5KKUDM5EXID3F27P2C" /> <img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/POSTGRES.svg?token=ATA3BR4FLNQ3GGCOXM4TDLLF27P5W" /> <img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/MYSQL.svg?token=ATA3BR7QVNKBCRKVZI4KMY3F27P6M" /> <img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/LINUX.svg?token=ATA3BRYCDLTPDTSD4EFSJG3F27QAS" /> <img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/CLOUDWAYS.svg?token=ATA3BR3U6ZIJTLOCCTN5EALF27QAO" /> <img  src="https://raw.githubusercontent.com/alanabarbosa/icons/8096fa73d84df54d506045fe56dbce14aaca9a7d/DOCKER.svg?token=ATA3BR2B6N7VD5D3VFODJ63F27QAO" />
 
  ## Tools
 <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/git.png?raw=true" /> <img width="50px" src="https://github.com/itsalanayall/icons/blob/main/sublime.png?raw=true" /> 
