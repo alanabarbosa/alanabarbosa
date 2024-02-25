@@ -16,8 +16,8 @@
 
 <div>
   <a href="https://github.com/alanabarbosa" target="_blank">
-		         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanabarbosa&langs_count=6&theme=jolly&layout=donut" width="300px"/>
 			    <img src="https://github-readme-stats.vercel.app/api?username=alanabarbosa&show_icons=true&theme=jolly" width="100%"/>
+		         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanabarbosa&langs_count=6&theme=jolly&layout=donut" />
   </a>
 </div>
 
