@@ -13,5 +13,3 @@
   </a>
 </div>
 
-
-![Snake animation](https://github.com/alanabarbosa/alanabarbosa/blob/output/github-contribution-grid-snake.svg)
