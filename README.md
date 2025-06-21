@@ -1,5 +1,5 @@
 
-#  👩🏻‍💻 Hi, Welcome, I'm Alana Barbosa
+#  👩🏻‍💻 Hi
 ####  :earth_americas: I'm Brazilian
 
    #### 💡 "if you can dream it you can do it" 
